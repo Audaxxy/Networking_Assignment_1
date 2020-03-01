@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Shift - Complete Sci-Fi UI/Scenes/Main Menu/Main Menu (Desktop).unity
+- path: Assets/Scenes/Login.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
